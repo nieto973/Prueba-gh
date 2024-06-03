@@ -2,3 +2,5 @@ tomates
 lechuga
 filetes de pollo
 tortilla de patatas
+Cepillos
+Secador
